@@ -979,3 +979,14 @@ span[class*="border-"] {
 .pink-button:hover {
     color: #fff;
 }
+
+.headshot {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.headshot {
+    text-align: center;
+}
