@@ -990,3 +990,11 @@ span[class*="border-"] {
 .headshot {
     text-align: center;
 }
+
+.projecttwo {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
